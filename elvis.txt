@@ -17,7 +17,7 @@
  <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23616161&amp;ctz=Africa%2FNairobi&amp;src=a2hma2VueWExQGdtYWlsLmNvbQ&amp;src=Mjcza2ZtdW9vMmgza2Q4NzBhcG04ZTFiYXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23039BE5&amp;color=%23E4C441" style="border:solid 1px #777 " style="background-color: #2f3542" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <footer class="footer-distributed">
 
-			<div class="footer-left">
+			<div class="footer-left"><!----- Start of footer---->
 
 				
 				<div style="border-radius: 50%;">	
